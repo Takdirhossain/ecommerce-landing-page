@@ -4,3 +4,8 @@
 .categories img{
     width: 100px;
 }
+.panda-btn-success{
+    background-color: #FF227A;
+    padding: 8px 15px;
+    color: white;
+}
